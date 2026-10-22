@@ -1,0 +1,4 @@
+Store_A,1200
+Store_B,950
+Store_C,1430
+Store_D,800
